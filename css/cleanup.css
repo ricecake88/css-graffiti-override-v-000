@@ -9,3 +9,6 @@
 div #tag-3 {
   display: none;
 }
+.parent #tag-4 {
+  display: none;
+}
