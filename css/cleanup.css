@@ -7,13 +7,17 @@
 }
 
 #wall #tag-3 .slick .wicked {
-  display: none;
+  display:none;
 }
 
 #wall .parent #tag-4 {
-  display: none;
+  display:none;
 }
 
 #wall .parent #tag-5 {
-  display: none;
+  display:none;
+}
+
+#wall .parent #tag-6 {
+  display:none;
 }
