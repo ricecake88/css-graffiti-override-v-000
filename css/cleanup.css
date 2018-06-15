@@ -1,4 +1,5 @@
 /* write your override styles here */
+
 #wall .tag-1 {
   display:none;
 }
@@ -8,5 +9,8 @@
 }
 
 .parent {
+  display: none;
+}
+#tag-7.slick {
   display: none;
 }
