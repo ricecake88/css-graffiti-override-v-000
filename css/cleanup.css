@@ -15,4 +15,6 @@
   display: none;
 }
 
-#tag3 
+#tag3.slick.wicked {
+  display: none;
+}
