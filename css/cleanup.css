@@ -15,6 +15,11 @@ div #tag-3 {
 .parent #tag-6 {
   display: none;
 }
+
+.parent #tag-7 {
+  display: none;
+}
+
 .parent {
   display: none;
 }
