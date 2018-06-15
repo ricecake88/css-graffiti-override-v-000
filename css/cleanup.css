@@ -2,7 +2,11 @@
   display: none;
 }
 
-#tag-2 .slick .wicked {
+#wall #tag-2 {
+  display:none;
+}
+
+#tag-3 .slick .wicked {
   display: none;
 }
 
